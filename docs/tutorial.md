@@ -1,6 +1,6 @@
 # Building a Touchless Hyprland Gesture Controller on a 2017 Pixelbook
 
-![HyprWave live 21-point hand-tracking HUD floating pinned over Hyprland on a 2017 Google Pixelbook](./images/hyprwave-hero.png)
+![HyprWave live 21-point hand-tracking HUD window on a dark backdrop](./images/hyprwave-hero.png)
 
 If you have an older laptop gathering dust—mine is a 2017 **Google Pixelbook (Eve)** running **Omarchy Linux** and **Hyprland** on MrChromebox coreboot firmware—it's tempting to assume real-time computer vision is out of reach without an Apple Silicon NPU or a discrete GPU.
 

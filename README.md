@@ -1,10 +1,10 @@
 # HyprWave
 
-![HyprWave live 21-point hand-tracking HUD floating pinned over Hyprland](docs/images/hyprwave-hero.png)
+![HyprWave live 21-point hand-tracking HUD window on a dark backdrop](docs/images/hyprwave-hero.png)
 
 A 100% local, real-time hand-gesture controller with a glowing Wayland HUD overlay for **Hyprland**—engineered to stay cool and responsive on a fanless dual-core **2017 Google Pixelbook (`i7-7Y75`, CPU-only)** running **Omarchy Linux**.
 
-* **Case Study (cgranier.com):** *Shipping Reliable Edge AI on a 2017 Laptop* *(link to published post)*
+* **Case Study (cgranier.com):** [Shipping Reliable Edge AI on a 2017 Laptop](https://cgranier.com/blog/2026/edge-ai-without-a-gpu/)
 * **Step-by-Step Build Walkthrough:** [`docs/tutorial.md`](docs/tutorial.md)
 
 ---
