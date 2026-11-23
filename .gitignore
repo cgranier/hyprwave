@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+models/*.task
+# Local cgranier.com FDE case-study draft (published separately from GitHub repo)
+blog/
+.DS_Store
